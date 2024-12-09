@@ -1,4 +1,4 @@
-odoo.define('customize_variant_steps.main_', function (require) {
+odoo.define('ol_customize_variant_steps.main_', function (require) {
     "use strict";
 
     var concurrency = require('web.concurrency');
