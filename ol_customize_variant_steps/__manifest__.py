@@ -21,8 +21,8 @@
 
     'assets': {
         'web.assets_frontend': [
-            'customize_variant_steps/static/src/css/style_variants.css',
-            'customize_variant_steps/static/src/js/main_mixin.js',
+            'ol_customize_variant_steps/static/src/css/style_variants.css',
+            'ol_customize_variant_steps/static/src/js/main_mixin.js',
         ],
         #'web.assets_qweb': ['customize_variant_steps/static/src/xml/variant_selection_bar.xml'],
         },           
